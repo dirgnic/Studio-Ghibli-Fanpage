@@ -1,6 +1,6 @@
 Studio Ghibli fanpage
 
-```markdown
+
 # Studio Ghibli Fanpage
 
 Welcome to the **Studio Ghibli Fanpage**! This project is a tribute to the incredible works of Studio Ghibli, one of Japan's most iconic animation studios. The fanpage showcases information about Studio Ghibli's history, popular movies, characters, and the animation process.
