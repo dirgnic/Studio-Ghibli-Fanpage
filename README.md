@@ -1,4 +1,4 @@
-Studio Ghibli fanpage
+
 
 
 # Studio Ghibli Fanpage
