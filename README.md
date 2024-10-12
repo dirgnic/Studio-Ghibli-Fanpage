@@ -94,4 +94,4 @@ Here are some ideas for expanding the fanpage in the future:
 ## Acknowledgements
 
 This project is inspired by the works of **Hayao Miyazaki** and **Isao Takahata** at Studio Ghibli. It is created as a fan tribute and uses images and references to their publicly available works.
-```
+
