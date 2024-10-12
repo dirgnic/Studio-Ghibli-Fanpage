@@ -38,7 +38,7 @@ Studio Ghibli Fanpage/
 ├── history.html              # HTML file showing the timeline of Studio Ghibli's history
 ├── index.css                 # CSS file for the homepage (index) and general site styling
 ├── index.html                # Main homepage HTML file
-├── README.md                 # Readme file with project information
+README.md                 # Readme file with project information
 
 ```
 
